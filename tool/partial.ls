@@ -3,8 +3,10 @@
  */
 
 fs = require \fs
-file = \../data/parse.json
-write_file = \../sample/sample1.json
+path = require \path
+
+write_file = path.resolve \./sample/sample1.json
+file = path.resolve \./data/parse.json
 
 raw_data = fs.readFileSync file, 'utf8'
 

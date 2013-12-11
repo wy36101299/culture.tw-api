@@ -8,6 +8,11 @@ This is the api backend for the project [culture.tw](https://github.com/chilijun
 - npm
 - Livescript ( `npm install -g livescript` )
 
+## Download from origin and make sample
+
+```
+    jake
+```
 
 ## Testing
 
