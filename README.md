@@ -25,6 +25,10 @@ This is the api backend for the project [culture.tw](https://github.com/chilijun
 - 紀力榮
 - 楊智弘
 
+## Data format
+
+https://github.com/chilijung/culture.tw-api/blob/master/data_format.md
+
 ## Design Patterns
 
 #### Singleton pattern
