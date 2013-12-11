@@ -1,0 +1,20 @@
+{
+  "name": "culture-api",
+  "version": "0.0.0",
+  "description": "api of culture.tw project",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chilijung/culture.tw-api.git"
+  },
+  "author": "chilijung <chilijung@gmail.com> (http://lijung.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chilijung/culture.tw-api/issues"
+  }
+}
